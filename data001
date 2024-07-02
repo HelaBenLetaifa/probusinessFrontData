@@ -1,0 +1,715 @@
+{
+  "groups": [
+    {
+      "group_id": "group_1",
+      "display_content": {
+        "title": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Group 1"
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Groupe 1"
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Grupo 1"
+          }
+        ],
+        "description": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Description for Group 1."
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Description pour le Groupe 1."
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Descripción para el Grupo 1."
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": "product_1",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 1"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 1"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 1"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 1."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 1."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 1."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 1.99
+            },
+            {
+              "currency": "EUR",
+              "price": 1.79
+            }
+          ]
+        },
+        {
+          "product_id": "product_2",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 2"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 2"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 2"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 2."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 2."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 2."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 2.99
+            },
+            {
+              "currency": "EUR",
+              "price": 2.69
+            }
+          ]
+        },
+        {
+          "product_id": "product_3",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 3"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 3"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 3"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 3."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 3."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 3."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 3.99
+            },
+            {
+              "currency": "EUR",
+              "price": 3.59
+            }
+          ]
+        },
+        {
+          "product_id": "product_4",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 4"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 4"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 4"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 4."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 4."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 4."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 4.99
+            },
+            {
+              "currency": "EUR",
+              "price": 4.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "group_2",
+      "display_content": {
+        "title": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Group 2"
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Groupe 2"
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Grupo 2"
+          }
+        ],
+        "description": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Description for Group 2."
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Description pour le Groupe 2."
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Descripción para el Grupo 2."
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": "product_5",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 5"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 5"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 5"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 5."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 5."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 5."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 5.99
+            },
+            {
+              "currency": "EUR",
+              "price": 5.39
+            }
+          ]
+        },
+        {
+          "product_id": "product_6",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 6"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 6"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 6"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 6."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 6."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 6."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 6.99
+            },
+            {
+              "currency": "EUR",
+              "price": 6.29
+            }
+          ]
+        },
+        {
+          "product_id": "product_7",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 7"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 7"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 7"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 7."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 7."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 7."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 7.99
+            },
+            {
+              "currency": "EUR",
+              "price": 7.19
+            }
+          ]
+        },
+        {
+          "product_id": "product_8",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 8"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 8"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 8"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 8."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 8."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 8."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 8.99
+            },
+            {
+              "currency": "EUR",
+              "price": 8.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "group_3",
+      "display_content": {
+        "title": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Group 3"
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Groupe 3"
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Grupo 3"
+          }
+        ],
+        "description": [
+          {
+            "locale_id": "en-US",
+            "is_default": true,
+            "value": "Description for Group 3."
+          },
+          {
+            "locale_id": "fr-FR",
+            "is_default": false,
+            "value": "Description pour le Groupe 3."
+          },
+          {
+            "locale_id": "es-ES",
+            "is_default": false,
+            "value": "Descripción para el Grupo 3."
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": "product_9",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 9"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 9"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 9"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 9."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 9."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 9."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 9.99
+            },
+            {
+              "currency": "EUR",
+              "price": 8.99
+            }
+          ]
+        },
+        {
+          "product_id": "product_10",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 10"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 10"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 10"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 10."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 10."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 10."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 10.99
+            },
+            {
+              "currency": "EUR",
+              "price": 9.89
+            }
+          ]
+        },
+        {
+          "product_id": "product_11",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 11"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 11"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 11"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 11."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 11."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 11."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 11.99
+            },
+            {
+              "currency": "EUR",
+              "price": 10.79
+            }
+          ]
+        },
+        {
+          "product_id": "product_12",
+          "display_content": {
+            "title": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Product 12"
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Produit 12"
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Producto 12"
+              }
+            ],
+            "description": [
+              {
+                "locale_id": "en-US",
+                "is_default": true,
+                "value": "Description for Product 12."
+              },
+              {
+                "locale_id": "fr-FR",
+                "is_default": false,
+                "value": "Description pour le Produit 12."
+              },
+              {
+                "locale_id": "es-ES",
+                "is_default": false,
+                "value": "Descripción para el Producto 12."
+              }
+            ]
+          },
+          "pricing": [
+            {
+              "currency": "USD",
+              "price": 12.99
+            },
+            {
+              "currency": "EUR",
+              "price": 11.69
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
