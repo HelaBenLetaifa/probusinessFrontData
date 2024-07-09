@@ -1,5 +1,5 @@
 {
-  company_name: "Invictus"; 
+  company_name: "Invictus",
   "groups": [
     {
       "group_id": "group_1",
