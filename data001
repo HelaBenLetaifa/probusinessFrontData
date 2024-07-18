@@ -1,5 +1,5 @@
 {
-  "company_name":"invictus",
+  "company_name": "invictus",
   "groups": [
     {
       "group_id": "group_1",
@@ -9,16 +9,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Group 1"
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Groupe 1"
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Grupo 1"
           }
         ],
         "description": [
@@ -26,16 +16,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Description for Group 1."
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Description pour le Groupe 1."
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Descripción para el Grupo 1."
           }
         ]
       },
@@ -48,16 +28,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 1"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 1"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 1"
               }
             ],
             "description": [
@@ -65,16 +35,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 1."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 1."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 1."
               }
             ]
           },
@@ -97,16 +57,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 2"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 2"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 2"
               }
             ],
             "description": [
@@ -114,16 +64,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 2."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 2."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 2."
               }
             ]
           },
@@ -146,16 +86,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 3"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 3"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 3"
               }
             ],
             "description": [
@@ -163,16 +93,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 3."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 3."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 3."
               }
             ]
           },
@@ -195,16 +115,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 4"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 4"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 4"
               }
             ],
             "description": [
@@ -212,16 +122,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 4."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 4."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 4."
               }
             ]
           },
@@ -246,16 +146,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Group 2"
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Groupe 2"
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Grupo 2"
           }
         ],
         "description": [
@@ -263,16 +153,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Description for Group 2."
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Description pour le Groupe 2."
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Descripción para el Grupo 2."
           }
         ]
       },
@@ -285,16 +165,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 5"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 5"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 5"
               }
             ],
             "description": [
@@ -302,16 +172,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 5."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 5."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 5."
               }
             ]
           },
@@ -334,16 +194,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 6"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 6"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 6"
               }
             ],
             "description": [
@@ -351,16 +201,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 6."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 6."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 6."
               }
             ]
           },
@@ -383,16 +223,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 7"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 7"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 7"
               }
             ],
             "description": [
@@ -400,16 +230,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 7."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 7."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 7."
               }
             ]
           },
@@ -432,16 +252,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 8"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 8"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 8"
               }
             ],
             "description": [
@@ -449,16 +259,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 8."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 8."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 8."
               }
             ]
           },
@@ -483,16 +283,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Group 3"
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Groupe 3"
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Grupo 3"
           }
         ],
         "description": [
@@ -500,16 +290,6 @@
             "locale_id": "en-US",
             "is_default": true,
             "value": "Description for Group 3."
-          },
-          {
-            "locale_id": "fr-FR",
-            "is_default": false,
-            "value": "Description pour le Groupe 3."
-          },
-          {
-            "locale_id": "es-ES",
-            "is_default": false,
-            "value": "Descripción para el Grupo 3."
           }
         ]
       },
@@ -522,16 +302,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 9"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 9"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 9"
               }
             ],
             "description": [
@@ -539,16 +309,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 9."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 9."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 9."
               }
             ]
           },
@@ -571,16 +331,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 10"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 10"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 10"
               }
             ],
             "description": [
@@ -588,16 +338,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 10."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 10."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 10."
               }
             ]
           },
@@ -620,16 +360,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 11"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 11"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 11"
               }
             ],
             "description": [
@@ -637,16 +367,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 11."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 11."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 11."
               }
             ]
           },
@@ -669,16 +389,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Product 12"
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Produit 12"
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Producto 12"
               }
             ],
             "description": [
@@ -686,16 +396,6 @@
                 "locale_id": "en-US",
                 "is_default": true,
                 "value": "Description for Product 12."
-              },
-              {
-                "locale_id": "fr-FR",
-                "is_default": false,
-                "value": "Description pour le Produit 12."
-              },
-              {
-                "locale_id": "es-ES",
-                "is_default": false,
-                "value": "Descripción para el Producto 12."
               }
             ]
           },
