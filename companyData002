@@ -1,1 +1,13 @@
 
+[
+  {
+    "id": "001",
+    "name": "invictus",
+    "navigationType": "navigation_5"
+  },
+ {
+    "id": "002",
+    "name": "location de voiture",
+    "navigationType": "navigation_9"
+  }
+]
