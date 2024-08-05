@@ -1,18 +1,18 @@
 {
-"logoText": "Startup 3",
-    "description": "Be sure to take a look at our Terms of Use and Privacy Policy",
+  "logoText": "Your Logo",
+  "description": "Your description here",
   "socialLinks": [
     {
       "name": "Twitter",
-      "url": "https://twitter.com/YourTwitterProfile",
+      "url": "https://twitter.com/yourprofile"
     },
     {
       "name": "Facebook",
-      "url": "https://facebook.com/YourFacebookProfile",
+      "url": "https://facebook.com/yourprofile"
     },
     {
       "name": "Google",
-      "url": "https://plus.google.com/YourGoogleProfile",
+      "url": "https://plus.google.com/yourprofile"
     }
   ]
 }
