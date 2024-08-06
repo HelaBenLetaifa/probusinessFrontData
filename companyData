@@ -3,13 +3,13 @@
     "id": "001",
     "name": "Instant",
     "navigationType": "navigation_5",
-     "footerType":"footer_1"
+     "footerType":"footer_4"
   },
  {
     "id": "002",
     "name": "Ja8alino",
     "navigationType": "navigation_9",
-     "footerType":"footer_4"
+     "footerType":"footer_1"
   }
 ]
 
