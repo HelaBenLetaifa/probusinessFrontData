@@ -1,0 +1,18 @@
+  {
+   "companyName": "Instant",
+    "description": "Welcome to Instant, your instant solution provider.",
+    "socialLinks": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/yourprofile"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Ja8alino"
+      },
+      {
+        "name": "Google",
+        "url": "https://plus.google.com/yourprofile"
+      }
+    ]
+  }
