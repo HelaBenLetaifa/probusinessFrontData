@@ -1,34 +1,18 @@
 {
-  "footer_1": {
-    "companyName": "Instant",
-    "description": "Welcome to Instant, your instant solution provider.",
-    "socialLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/instant"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/instant"
-      }
-    ]
-  },
-  "footer_4": {
-    "companyName": "Ja8alino",
-    "description": "Nos chers clients et Fans, on est à votre service 6j/7 et 12h/24 😊 n'hésitez pas a nous rendre visite",
-    "socialLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/yourprofile"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/Ja8alino"
-      },
-      {
-        "name": "Google",
-        "url": "https://plus.google.com/yourprofile"
-      }
-    ]
-  }
+  "companyName": "Ja8alino",
+  "description": "Nos chers clients et Fans, on est à votre service 6j/7 et 12h/24 😊 n'hésitez pas a nous rendre visite",
+  "socialLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/yourprofile"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Ja8alino"
+    },
+    {
+      "name": "Google",
+      "url": "https://plus.google.com/yourprofile"
+    }
+  ]
 }
