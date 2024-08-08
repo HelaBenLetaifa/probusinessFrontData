@@ -1,5 +1,7 @@
 {
-  "company_name":"invictus",
+  "company_name":"invictus", 
+  "navigationType": "navigation_5",
+  "footerType": "footer_1",
   "groups": [
     {
       "group_id": "group_1",
