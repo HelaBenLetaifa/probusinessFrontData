@@ -5,7 +5,7 @@
     "links": [
       {
         "name": "Home",
-        "url": "/homePage",
+        "url": "/home",
         "id": "home"
       },
       {
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "groups": [
+  "catalog": [
     {
       "group_id": "group_1",
       "display_content": {
@@ -494,7 +494,7 @@
   "footer": {
     "type": "footer_1",
     "content": {
-      "logo": "Invictus Logo",
+      "url": "Invictus Logo",
       "description": "Invictus is a leading provider of high-quality products and services.",
       "social_links": [
         {
