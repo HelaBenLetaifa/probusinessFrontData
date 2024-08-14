@@ -1,19 +1,82 @@
-  {
-   "companyName": "Instant",
-    "aboutUs": "since 2019 we are here for you",
-    "description": "Welcome to Instant, your instant solution provider.",
-    "socialLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/yourprofile"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/Ja8alino"
-      },
-      {
-        "name": "Google",
-        "url": "https://plus.google.com/yourprofile"
-      }
-    ]
-  }
+{
+  "footers": [
+    {
+      "type": "footer1",
+      "companyName": "Startup 3",
+      "description": "We innovate your business.",
+      "socialLinks": [
+        {
+          "social_provider": "Twitter",
+          "url": "https://twitter.com/yourcompany"
+        },
+        {
+          "social_provider": "Facebook",
+          "url": "https://facebook.com/yourcompany"
+        },
+        {
+          "social_provider": "Google",
+          "url": "https://google.com"
+        }
+      ],
+      "navigationLinks": [
+        {
+          "name": "Home",
+          "action": "goBack",
+          "url": "/homeCompany/[id]"
+        },
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Pricing",
+          "action": "navigateToPricingPage",
+          "url": "/PricingPage/[id]"
+        },
+        {
+          "name": "Contacts",
+          "url": "/contact"
+        }
+      ]
+    },
+    {
+      "type": "footer4",
+      "companyName": "Invictus",
+      "description": "We innovate your business.",
+      "socialLinks": [
+        {
+          "social_provider": "Twitter",
+          "url": "https://twitter.com/yourcompany"
+        },
+        {
+          "social_provider": "Facebook",
+          "url": "https://facebook.com/yourcompany"
+        },
+        {
+          "social_provider": "Google",
+          "url": "https://google.com"
+        }
+      ],
+      "navigationLinks": [
+        {
+          "name": "Home",
+          "action": "goBack",
+          "url": "/homeCompany/[id]"
+        },
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Pricing",
+          "action": "navigateToPricingPage",
+          "url": "/PricingPage/[id]"
+        },
+        {
+          "name": "Contacts",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}
