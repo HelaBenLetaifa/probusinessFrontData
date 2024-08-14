@@ -24,9 +24,9 @@
           "action": "goBack",
           "url": "/homeCompany/[id]"
         },
-        {
-          "name": "About",
-          "url": "/about"
+     {
+          "name": "ProBusiness",
+          "url": "/"
         },
         {
           "name": "Pricing",
@@ -64,8 +64,8 @@
           "url": "/homeCompany/[id]"
         },
         {
-          "name": "About",
-          "url": "/about"
+          "name": "ProBusiness",
+          "url": "/"
         },
         {
           "name": "Pricing",
