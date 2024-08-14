@@ -9,9 +9,9 @@
         "id": "home"
       },
       {
-        "name": "Pricing",
-        "url": "/PricingPage/[id]",
-        "id": "pricing"
+        "name": "catalogPage",
+        "url": "/catalogPage/[id]",
+        "id": "catalog"
       }
     ]
   },
@@ -498,15 +498,15 @@
       "description": "Invictus is a leading provider of high-quality products and services.",
       "social_links": [
         {
-          "name": "Facebook",
+          "social_provider": "Facebook",
           "url": "https://www.facebook.com/Invictus"
         },
         {
-          "name": "Twitter",
+          "social_provider": "Twitter",
           "url": "https://twitter.com/Invictus"
         },
         {
-          "name": "LinkedIn",
+          "social_provider": "LinkedIn",
           "url": "https://www.linkedin.com/company/invictus"
         }
       ]
