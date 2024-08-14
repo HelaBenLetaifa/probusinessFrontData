@@ -1,13 +1,13 @@
 [
   {
     "id": "001",
-    "name": "Instant",
+    "name": "Invictus",
     "navigationType": "navigation_9",
      "footerType":"footer_4"
   },
  {
     "id": "002",
-    "name": "Ja8alino",
+    "name": "Location de voiture",
     "navigationType": "navigation_9",
      "footerType":"footer_1"
   }
