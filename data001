@@ -1,21 +1,6 @@
 {
-  "company_name": "invictus",
-  "navigation": {
-    "type": "navigation_5",
-    "links": [
-      {
-        "name": "Home",
-        "url": "/home",
-        "id": "home"
-      },
-      {
-        "name": "catalogPage",
-        "url": "/catalogPage/[id]",
-        "id": "catalog"
-      }
-    ]
-  },
-  "catalog": [
+  "company_name":"location de voiture",
+  "groups": [
     {
       "group_id": "group_1",
       "display_content": {
