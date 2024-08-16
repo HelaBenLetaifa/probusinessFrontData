@@ -3,7 +3,7 @@
     {
       "type": "footer1",
       "companyName": "Location de voiture",
-      "description": "We innovate your business.",
+      "description": "Driving your business forward with reliable vehicle rentals.",
       "socialLinks": [
         {
           "social_provider": "Twitter",
@@ -24,7 +24,7 @@
           "action": "goBack",
           "url": "/homeCompany/[id]"
         },
-     {
+        {
           "name": "ProBusiness",
           "url": "/"
         },
@@ -35,40 +35,40 @@
         }
       ]
     },
- {
-  "type": "footer1",
-  "companyName": "ProBusiness",
-  "description": "Innovating your business for a sustainable future.",
-  "socialLinks": [
     {
-      "social_provider": "Twitter",
-      "url": "https://twitter.com/yourcompany"
+      "type": "footer1",
+      "companyName": "ProBusiness",
+      "description": "Innovating your business for a sustainable future.",
+      "socialLinks": [
+        {
+          "social_provider": "Twitter",
+          "url": "https://twitter.com/yourcompany"
+        },
+        {
+          "social_provider": "Facebook",
+          "url": "https://facebook.com/yourcompany"
+        },
+        {
+          "social_provider": "Google",
+          "url": "https://google.com"
+        }
+      ],
+      "navigationLinks": [
+        {
+          "name": "Home",
+          "action": "goBack",
+          "url": "/homeCompany/[id]"
+        },
+        {
+          "name": "ProBusiness",
+          "url": "/"
+        }
+      ]
     },
-    {
-      "social_provider": "Facebook",
-      "url": "https://facebook.com/yourcompany"
-    },
-    {
-      "social_provider": "Google",
-      "url": "https://google.com"
-    }
-  ],
-  "navigationLinks": [
-    {
-      "name": "Home",
-      "action": "goBack",
-      "url": "/homeCompany/[id]"
-    },
-    {
-      "name": "ProBusiness",
-      "url": "/"
-    }
-  ]
-},
     {
       "type": "footer4",
       "companyName": "Invictus",
-      "description": "We innovate your business.",
+      "description": "Leading innovation in the business world.",
       "socialLinks": [
         {
           "social_provider": "Twitter",
