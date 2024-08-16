@@ -1,5 +1,5 @@
 {
-"footers": [
+  "footers": [
     {
       "type": "footer1",
       "companyName": "Location de voiture",
@@ -105,5 +105,5 @@
         }
       ]
     }
-  ]
+  ] 
 }
