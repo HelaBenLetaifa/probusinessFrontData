@@ -64,9 +64,9 @@
           "url": "/"
         },
         {
-          "name": "Pricing",
-          "action": "navigateToPricingPage",
-          "url": "/PricingPage/[id]"
+          "name": "About",
+          "action": "",
+          "url": "/about"
         }
       ]
     },
