@@ -36,40 +36,35 @@
       ]
     },
  {
-      "type": "footer1",
-      "companyName": "HomePage",
-      "description": "We innovate your business.",
-      "socialLinks": [
-        {
-          "social_provider": "Twitter",
-          "url": "https://twitter.com/yourcompany"
-        },
-        {
-          "social_provider": "Facebook",
-          "url": "https://facebook.com/yourcompany"
-        },
-        {
-          "social_provider": "Google",
-          "url": "https://google.com"
-        }
-      ],
-      "navigationLinks": [
-        {
-          "name": "Home",
-          "action": "goBack",
-          "url": "/homeCompany/[id]"
-        },
-     {
-          "name": "ProBusiness",
-          "url": "/"
-        },
-        {
-          "name": "Pricing",
-          "action": "navigateToPricingPage",
-          "url": "/PricingPage/[id]"
-        }
-      ]
+  "type": "footer1",
+  "companyName": "ProBusiness",
+  "description": "Innovating your business for a sustainable future.",
+  "socialLinks": [
+    {
+      "social_provider": "Twitter",
+      "url": "https://twitter.com/yourcompany"
     },
+    {
+      "social_provider": "Facebook",
+      "url": "https://facebook.com/yourcompany"
+    },
+    {
+      "social_provider": "Google",
+      "url": "https://google.com"
+    }
+  ],
+  "navigationLinks": [
+    {
+      "name": "Home",
+      "action": "goBack",
+      "url": "/homeCompany/[id]"
+    },
+    {
+      "name": "ProBusiness",
+      "url": "/"
+    }
+  ]
+},
     {
       "type": "footer4",
       "companyName": "Invictus",
