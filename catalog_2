@@ -6,199 +6,199 @@
     "catalog": [
         {
             "category_id": "category001",
-            "category_name": "Electronics",
-            "category_description": "Latest electronic gadgets and devices",
+            "category_name": "Burgers",
+            "category_description": "Delicious and juicy burgers from your favorite fast food.",
             "category_small_media": {
-                        "url": "https://github.com/user-attachments/assets/b0d39366-cd0a-4a4d-b3a4-b461d176b42f",
-                        "type": "image"
-                    },
+                "url": "https://images.unsplash.com/photo-1561948954-9d2c95e1c8f6?w=500&auto=format&fit=crop&q=60",
+                "type": "image"
+            },
             "collection": [
                 {
                     "product_id": "PROD1001",
-                    "product_name": "Smartphone Alpha",
-                    "product_description": "A high-end smartphone with cutting-edge features.",
+                    "product_name": "Classic Cheeseburger",
+                    "product_description": "A delicious cheeseburger with fresh lettuce, tomato, and cheese.",
                     "product_small_media": {
-                        "url": "",
+                        "url": "https://images.unsplash.com/photo-1601581610537-7f3026c7d1fc?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 799.99,
+                    "product_price": 5.99,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD1002",
-                    "product_name": "Wireless Headphones",
-                    "product_description": "Noise-cancelling over-ear headphones.",
+                    "product_name": "Double Bacon Burger",
+                    "product_description": "A double burger with crispy bacon and savory cheese.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1637780852590-8ab27248ec41?q=80&w=2818&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1563290727-bfb7f7c14c6c?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 199.99,
+                    "product_price": 8.49,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD1003",
-                    "product_name": "4K Action Camera",
-                    "product_description": "Durable action camera for capturing adventures in ultra-high definition.",
+                    "product_name": "Veggie Burger",
+                    "product_description": "A plant-based burger for vegetarians and vegans.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1460134846237-51c777df6111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8NEslMjBBY3Rpb24lMjBDYW1lcmF8ZW58MHx8MHx8fDA%3D",
+                        "url": "https://images.unsplash.com/photo-1594384600663-ea15e1e96385?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 249.99,
+                    "product_price": 6.49,
                     "currency": "USD"
                 }
             ]
         },
         {
             "category_id": "category002",
-            "category_name": "Home Appliances",
-            "category_description": "Essential appliances for modern living",
+            "category_name": "Pizzas",
+            "category_description": "Tasty pizzas with fresh ingredients.",
             "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
+                "url": "https://images.unsplash.com/photo-1562190299-fd68d4d2b872?w=500&auto=format&fit=crop&q=60",
                 "type": "image"
             },
             "collection": [
                 {
                     "product_id": "PROD2001",
-                    "product_name": "Smart Refrigerator",
-                    "product_description": "Energy-efficient refrigerator with smart features.",
+                    "product_name": "Margherita Pizza",
+                    "product_description": "Classic pizza with tomato, mozzarella, and basil.",
                     "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
+                        "url": "https://images.unsplash.com/photo-1592385243584-64a2b3bc99bc?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 1199.99,
+                    "product_price": 12.99,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD2002",
-                    "product_name": "Robot Vacuum Cleaner",
-                    "product_description": "Automated vacuum cleaner with advanced navigation.",
+                    "product_name": "Pepperoni Pizza",
+                    "product_description": "Delicious pizza topped with pepperoni and cheese.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1603618090561-412154b4bd1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Um9ib3QlMjBWYWN1dW0lMjBDbGVhbmVyfGVufDB8fDB8fHww",
+                        "url": "https://images.unsplash.com/photo-1568563370-2f9e0e9c65f0?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 299.99,
+                    "product_price": 14.49,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD2003",
-                    "product_name": "Air Purifier",
-                    "product_description": "Removes pollutants and allergens from the air.",
+                    "product_name": "Vegetarian Pizza",
+                    "product_description": "A variety of fresh vegetables on a pizza base.",
                     "product_small_media": {
-                        "url": "https://media.istockphoto.com/id/1364110607/photo/young-woman-in-living-room-setting-up-home-air-purifier.webp?a=1&b=1&s=612x612&w=0&k=20&c=mTLhmlidm-EoD_xO8gixonGrgqAbA_2FcyXO_1wpVMc=",
+                        "url": "https://images.unsplash.com/photo-1581349510453-4580c2acbe56?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 149.99,
+                    "product_price": 13.49,
                     "currency": "USD"
                 }
             ]
         },
         {
             "category_id": "category003",
-            "category_name": "Fashion",
-            "category_description": "Latest trends in clothing and accessories",
+            "category_name": "Sides",
+            "category_description": "Tasty sides to complement your meal.",
             "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
+                "url": "https://images.unsplash.com/photo-1549393382-2882ac5086e2?w=500&auto=format&fit=crop&q=60",
                 "type": "image"
             },
             "collection": [
                 {
                     "product_id": "PROD3001",
-                    "product_name": "Classic Leather Jacket",
-                    "product_description": "Stylish leather jacket made from premium materials.",
+                    "product_name": "French Fries",
+                    "product_description": "Golden and crispy fries.",
                     "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
+                        "url": "https://images.unsplash.com/photo-1585086367593-c0b2b8f2e6a5?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 299.99,
+                    "product_price": 2.99,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD3002",
-                    "product_name": "Designer Handbag",
-                    "product_description": "Elegant handbag for all occasions.",
+                    "product_name": "Onion Rings",
+                    "product_description": "Crispy fried onion rings.",
                     "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1664392147011-2a720f214e01?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVzaWduZXIlMjBIYW5kYmFnfGVufDB8fDB8fHww",
+                        "url": "https://images.unsplash.com/photo-1589680518697-2a5ac62e35ad?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 499.99,
+                    "product_price": 3.99,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD3003",
-                    "product_name": "Sport Sneakers",
-                    "product_description": "Comfortable sneakers suitable for running and casual wear.",
+                    "product_name": "Mozzarella Sticks",
+                    "product_description": "Golden mozzarella sticks served with marinara sauce.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1709258228137-19a8c193be39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnQlMjBTbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1603805406332-0f7b78d70c02?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 129.99,
+                    "product_price": 4.49,
                     "currency": "USD"
                 }
             ]
         },
         {
             "category_id": "category004",
-            "category_name": "Books",
-            "category_description": "A collection of must-read books across genres",
+            "category_name": "Drinks",
+            "category_description": "Refreshing beverages to go with your meal.",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
+                "url": "https://images.unsplash.com/photo-1583897329397-5ff2a4b59507?w=500&auto=format&fit=crop&q=60",
                 "type": "image"
             },
             "collection": [
                 {
                     "product_id": "PROD4001",
-                    "product_name": "Mystery Novel",
-                    "product_description": "A thrilling mystery that keeps you on the edge of your seat.",
+                    "product_name": "Coca-Cola",
+                    "product_description": "Classic carbonated soft drink.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
+                        "url": "https://images.unsplash.com/photo-1612145206461-bf676b4d12a5?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 15.99,
+                    "product_price": 1.99,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD4002",
-                    "product_name": "Science Fiction Epic",
-                    "product_description": "An epic journey through space and time.",
+                    "product_name": "Lemonade",
+                    "product_description": "Refreshing homemade lemonade.",
                     "product_small_media": {
-                        "url": "https://github.com/user-attachments/assets/9e8c984d-4006-495a-bff1-845a1af0a9f3",
+                        "url": "https://images.unsplash.com/photo-1582065434681-0fc9d46b60e8?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 18.99,
+                    "product_price": 2.49,
                     "currency": "USD"
                 },
                 {
                     "product_id": "PROD4003",
-                    "product_name": "Cookbook",
-                    "product_description": "Delicious recipes from around the world.",
+                    "product_name": "Iced Tea",
+                    "product_description": "Cool and refreshing iced tea.",
                     "product_small_media": {
-                        "url": "https://github.com/user-attachments/assets/ee7f1c35-fda5-49e6-95fd-7012d4078583",
+                        "url": "https://images.unsplash.com/photo-1571233639685-efc6f0325b4b?w=500&auto=format&fit=crop&q=60",
                         "type": "image"
                     },
-                    "product_price": 25.99,
+                    "product_price": 2.29,
                     "currency": "USD"
                 }
             ]
         }
     ],
-"navigation":{
-   "content":{
-      "layout":"centered",
-      "logo":{
-         "icon":"heart"
-      },
-      "items":[
- {
-            "link":"/product_1",
-            "title":"product"
-         },
-         {
-            "title":"Home",
-            "link":"/9AF89712-5F83-471C-AD8F-9D3F9377586E"
-         }
-      ]
-   },
-   "textColor":"#333333",
-   "backgroundColor":"#ffffff"
+    "navigation": {
+        "content": {
+            "layout": "centered",
+            "logo": {
+                "icon": "heart"
+            },
+            "items": [
+                {
+                    "link": "/product_1",
+                    "title": "product"
+                },
+                {
+                    "title": "Home",
+                    "link": "/home"
+                }
+            ]
+        },
+        "textColor": "#333333",
+        "backgroundColor": "#ffffff"
+    }
 }
-} 
