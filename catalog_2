@@ -6,19 +6,19 @@
     "catalog": [
         {
             "category_id": "category001",
-            "category_name": "Burgers",
-            "category_description": "Delicious burgers made with premium ingredients",
+            "category_name": "Fast Food",
+            "category_description": "Delicious fast food options for a quick meal",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1560807707-8cc7775b41a6?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YnVyZ2VyfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                "url": "https://images.unsplash.com/photo-1586242460460-c088e1568f50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "type": "image"
             },
             "collection": [
                 {
                     "product_id": "PROD1001",
-                    "product_name": "Classic Cheeseburger",
-                    "product_description": "Juicy beef patty with melted cheese, lettuce, and tomato.",
+                    "product_name": "Cheeseburger",
+                    "product_description": "A classic cheeseburger with juicy beef patty, cheese, and fresh toppings.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YnVyZ2VyfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                        "url": "https://images.unsplash.com/photo-1599789023287-d27c574e3d3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "type": "image"
                     },
                     "product_price": 5.99,
@@ -26,76 +26,21 @@
                 },
                 {
                     "product_id": "PROD1002",
-                    "product_name": "Bacon Burger",
-                    "product_description": "Beef patty with crispy bacon, lettuce, cheese, and sauce.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1566180805-8e5f3c56e2ab?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YnVyZ2VyfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
-                        "type": "image"
-                    },
-                    "product_price": 7.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category002",
-            "category_name": "Pizzas",
-            "category_description": "Freshly baked pizzas with a variety of toppings",
-            "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1574158622682-4d0aaf23d470?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8cGl6emF8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD2001",
-                    "product_name": "Margherita Pizza",
-                    "product_description": "Classic pizza with fresh mozzarella, basil, and tomato sauce.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1560807707-8cc7775b41a6?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8cGl6emF8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
-                        "type": "image"
-                    },
-                    "product_price": 8.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD2002",
-                    "product_name": "Pepperoni Pizza",
-                    "product_description": "Spicy pepperoni with mozzarella and tomato sauce.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1574164281482-5b31723e1b7d?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8cGl6emF8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
-                        "type": "image"
-                    },
-                    "product_price": 9.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category003",
-            "category_name": "Sides",
-            "category_description": "Complementary side dishes to your main meal",
-            "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1568720047-9f44d9fdb80a?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8Y2FtcGZ8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD3001",
                     "product_name": "French Fries",
-                    "product_description": "Crispy golden fries served with ketchup or your favorite dipping sauce.",
+                    "product_description": "Crispy and golden fries, the perfect side dish.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1578967760552-1d378f0d8b2c?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8Y2FtcGZ8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                        "url": "https://images.unsplash.com/photo-1601837302651-2b05742b2192?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "type": "image"
                     },
                     "product_price": 2.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD3002",
-                    "product_name": "Onion Rings",
-                    "product_description": "Crispy battered onion rings served with dipping sauce.",
+                    "product_id": "PROD1003",
+                    "product_name": "Milkshake",
+                    "product_description": "A thick and creamy milkshake with your choice of flavor.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1590302587249-bf347cfe50f5?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8Y2FtcGZ8fHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                        "url": "https://images.unsplash.com/photo-1589301889762-d3755310d2a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "type": "image"
                     },
                     "product_price": 3.99,
@@ -104,34 +49,89 @@
             ]
         },
         {
-            "category_id": "category004",
-            "category_name": "Beverages",
-            "category_description": "Refreshing drinks to complement your meal",
+            "category_id": "category002",
+            "category_name": "Pizza",
+            "category_description": "Hot, delicious pizzas with a variety of toppings",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1578918810493-7cc7b3c0d700?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YmV2ZXJhZ2VzfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                "url": "https://images.unsplash.com/photo-1610967361787-b1c1b5e0e1a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "type": "image"
             },
             "collection": [
                 {
-                    "product_id": "PROD4001",
-                    "product_name": "Coca-Cola",
-                    "product_description": "Classic Coca-Cola soda, refreshing and perfect with your meal.",
+                    "product_id": "PROD2001",
+                    "product_name": "Margherita Pizza",
+                    "product_description": "A classic pizza with tomato, mozzarella, and fresh basil.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1598822258725-54a05d8f5228?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YmV2ZXJhZ2VzfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                        "url": "https://images.unsplash.com/photo-1561071105-eeb3e3deffba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "type": "image"
                     },
-                    "product_price": 1.99,
+                    "product_price": 8.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD4002",
-                    "product_name": "Iced Tea",
-                    "product_description": "Refreshing iced tea served with lemon.",
+                    "product_id": "PROD2002",
+                    "product_name": "Pepperoni Pizza",
+                    "product_description": "A delicious pizza topped with pepperoni and cheese.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1567294383-1c3a6bbba2ad?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8YmV2ZXJhZ2VzfHx8fHx8fHwxNjg3NzM4MjMy&ixlib=rb-1.2.1&q=80&w=400",
+                        "url": "https://images.unsplash.com/photo-1570737291257-7b7f65e06fcf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "type": "image"
                     },
-                    "product_price": 2.49,
+                    "product_price": 9.99,
+                    "currency": "USD"
+                },
+                {
+                    "product_id": "PROD2003",
+                    "product_name": "Vegetarian Pizza",
+                    "product_description": "A healthy pizza topped with vegetables, olives, and mozzarella.",
+                    "product_small_media": {
+                        "url": "https://images.unsplash.com/photo-1613641141549-1db73c5d0f56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "type": "image"
+                    },
+                    "product_price": 10.99,
+                    "currency": "USD"
+                }
+            ]
+        },
+        {
+            "category_id": "category003",
+            "category_name": "Burgers",
+            "category_description": "Juicy and delicious burgers for every taste",
+            "category_small_media": {
+                "url": "https://images.unsplash.com/photo-1561804575-4e4e7b3f94d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "image"
+            },
+            "collection": [
+                {
+                    "product_id": "PROD3001",
+                    "product_name": "Double Cheeseburger",
+                    "product_description": "A delicious double cheeseburger with extra cheese and crispy bacon.",
+                    "product_small_media": {
+                        "url": "https://images.unsplash.com/photo-1574732647380-3e6a370773b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "type": "image"
+                    },
+                    "product_price": 7.99,
+                    "currency": "USD"
+                },
+                {
+                    "product_id": "PROD3002",
+                    "product_name": "Chicken Burger",
+                    "product_description": "A crispy chicken patty burger with fresh vegetables.",
+                    "product_small_media": {
+                        "url": "https://images.unsplash.com/photo-1567627210-501c27694b1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "type": "image"
+                    },
+                    "product_price": 6.99,
+                    "currency": "USD"
+                },
+                {
+                    "product_id": "PROD3003",
+                    "product_name": "Vegan Burger",
+                    "product_description": "A plant-based burger with fresh vegetables and vegan sauce.",
+                    "product_small_media": {
+                        "url": "https://images.unsplash.com/photo-1576598291788-c7b5c25d95a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "type": "image"
+                    },
+                    "product_price": 8.49,
                     "currency": "USD"
                 }
             ]
