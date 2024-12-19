@@ -93,50 +93,6 @@
             ]
         },
         {
-            "category_id": "category003",
-            "category_name": "Sides",
-            "category_description": "Tasty sides to complement your meal.",
-            "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1549393382-2882ac5086e2?w=500&auto=format&fit=crop&q=60",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD3001",
-                    "product_name": "French Fries",
-                    "product_description": "Golden and crispy fries.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1585086367593-c0b2b8f2e6a5?w=500&auto=format&fit=crop&q=60",
-                        "type": "image"
-                    },
-                    "product_price": 2.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD3002",
-                    "product_name": "Onion Rings",
-                    "product_description": "Crispy fried onion rings.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1589680518697-2a5ac62e35ad?w=500&auto=format&fit=crop&q=60",
-                        "type": "image"
-                    },
-                    "product_price": 3.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD3003",
-                    "product_name": "Mozzarella Sticks",
-                    "product_description": "Golden mozzarella sticks served with marinara sauce.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1603805406332-0f7b78d70c02?w=500&auto=format&fit=crop&q=60",
-                        "type": "image"
-                    },
-                    "product_price": 4.49,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
             "category_id": "category004",
             "category_name": "Drinks",
             "category_description": "Refreshing beverages to go with your meal.",
@@ -147,10 +103,10 @@
             "collection": [
                 {
                     "product_id": "PROD4001",
-                    "product_name": "Coca-Cola",
+                    "product_name": "Boga",
                     "product_description": "Classic carbonated soft drink.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1612145206461-bf676b4d12a5?w=500&auto=format&fit=crop&q=60",
+                        "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
                         "type": "image"
                     },
                     "product_price": 1.99,
@@ -161,7 +117,7 @@
                     "product_name": "Lemonade",
                     "product_description": "Refreshing homemade lemonade.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1582065434681-0fc9d46b60e8?w=500&auto=format&fit=crop&q=60",
+                        "url": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGVtb25hZGV8ZW58MHx8MHx8fDA%3D",
                         "type": "image"
                     },
                     "product_price": 2.49,
@@ -172,7 +128,7 @@
                     "product_name": "Iced Tea",
                     "product_description": "Cool and refreshing iced tea.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1571233639685-efc6f0325b4b?w=500&auto=format&fit=crop&q=60",
+                        "url": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SWNlZCUyMFRlYXxlbnwwfHwwfHx8MA%3D%3D",
                         "type": "image"
                     },
                     "product_price": 2.29,
