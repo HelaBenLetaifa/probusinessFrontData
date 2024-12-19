@@ -7,154 +7,110 @@
         {
             "category_id": "category001",
             "category_name": "Fast Food",
-            "category_description": "Delicious fast food options for a quick meal",
+            "category_description": "Delicious fast food options from various restaurants",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1586242460460-c088e1568f50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmFzdCUyMEZvb2R8ZW58MHx8MHx8fDA%3D",
                 "type": "image"
             },
             "collection": [
                 {
-                    "product_id": "PROD1001",
+                    "product_id": "FOOD1001",
                     "product_name": "Cheeseburger",
-                    "product_description": "A classic cheeseburger with juicy beef patty, cheese, and fresh toppings.",
+                    "product_description": "A classic cheeseburger with fresh ingredients.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1599789023287-d27c574e3d3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmFzdCUyMEZvb2R8ZW58MHx8MHx8fDA%3D",
                         "type": "image"
                     },
                     "product_price": 5.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD1002",
-                    "product_name": "French Fries",
-                    "product_description": "Crispy and golden fries, the perfect side dish.",
+                    "product_id": "FOOD1002",
+                    "product_name": "Pepperoni Pizza",
+                    "product_description": "Hot and cheesy pepperoni pizza.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1601837302651-2b05742b2192?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1548365328-1bee262f8062?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGVwcGVyb25pJTIwUGl6emF8ZW58MHx8MHx8fDA%3D",
                         "type": "image"
                     },
-                    "product_price": 2.99,
+                    "product_price": 12.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD1003",
-                    "product_name": "Milkshake",
-                    "product_description": "A thick and creamy milkshake with your choice of flavor.",
+                    "product_id": "FOOD1003",
+                    "product_name": "French Fries",
+                    "product_description": "Crispy and golden French fries.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1589301889762-d3755310d2a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1541746972996-4e677e8d5cfa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RnJlbmNoJTIwRnJpZXN8ZW58MHx8MHx8fDA%3D",
                         "type": "image"
                     },
-                    "product_price": 3.99,
+                    "product_price": 2.99,
                     "currency": "USD"
                 }
             ]
         },
         {
             "category_id": "category002",
-            "category_name": "Pizza",
-            "category_description": "Hot, delicious pizzas with a variety of toppings",
+            "category_name": "Healthy Food",
+            "category_description": "Nutritious and delicious healthy food options",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1610967361787-b1c1b5e0e1a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "url": "https://images.unsplash.com/photo-1523978591478-c753949ff840?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGVhbHRoeSUyMEZvb2R8ZW58MHx8MHx8fDA%3D",
                 "type": "image"
             },
             "collection": [
                 {
-                    "product_id": "PROD2001",
-                    "product_name": "Margherita Pizza",
-                    "product_description": "A classic pizza with tomato, mozzarella, and fresh basil.",
+                    "product_id": "FOOD2001",
+                    "product_name": "Quinoa Salad",
+                    "product_description": "Fresh quinoa salad with mixed greens and vegetables.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1561071105-eeb3e3deffba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1523978591478-c753949ff840?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGVhbHRoeSUyMEZvb2R8ZW58MHx8MHx8fDA%3D",
                         "type": "image"
                     },
                     "product_price": 8.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD2002",
-                    "product_name": "Pepperoni Pizza",
-                    "product_description": "A delicious pizza topped with pepperoni and cheese.",
+                    "product_id": "FOOD2002",
+                    "product_name": "Avocado Toast",
+                    "product_description": "Whole grain toast topped with mashed avocado and spices.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1570737291257-7b7f65e06fcf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "type": "image"
-                    },
-                    "product_price": 9.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD2003",
-                    "product_name": "Vegetarian Pizza",
-                    "product_description": "A healthy pizza topped with vegetables, olives, and mozzarella.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1613641141549-1db73c5d0f56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "type": "image"
-                    },
-                    "product_price": 10.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category003",
-            "category_name": "Burgers",
-            "category_description": "Juicy and delicious burgers for every taste",
-            "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1561804575-4e4e7b3f94d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD3001",
-                    "product_name": "Double Cheeseburger",
-                    "product_description": "A delicious double cheeseburger with extra cheese and crispy bacon.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1574732647380-3e6a370773b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "type": "image"
-                    },
-                    "product_price": 7.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD3002",
-                    "product_name": "Chicken Burger",
-                    "product_description": "A crispy chicken patty burger with fresh vegetables.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1567627210-501c27694b1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1556910103-1e140921b7a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mn5BaW52YSUyMFRvYXN0fGVufDB8fDB8fHww",
                         "type": "image"
                     },
                     "product_price": 6.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD3003",
-                    "product_name": "Vegan Burger",
-                    "product_description": "A plant-based burger with fresh vegetables and vegan sauce.",
+                    "product_id": "FOOD2003",
+                    "product_name": "Smoothie Bowl",
+                    "product_description": "A refreshing smoothie bowl with a variety of fresh fruits.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1576598291788-c7b5c25d95a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "url": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mn5TcG9vbnklMjBCb3dsfGVufDB8fDB8fHww",
                         "type": "image"
                     },
-                    "product_price": 8.49,
+                    "product_price": 7.99,
                     "currency": "USD"
                 }
             ]
         }
     ],
     "navigation": {
-        "categories": [
-            {
-                "category_id": "category001",
-                "category_name": "Burgers"
+        "content": {
+            "layout": "centered",
+            "logo": {
+                "icon": "heart"
             },
-            {
-                "category_id": "category002",
-                "category_name": "Pizzas"
-            },
-            {
-                "category_id": "category003",
-                "category_name": "Sides"
-            },
-            {
-                "category_id": "category004",
-                "category_name": "Beverages"
-            }
-        ]
+            "items": [
+                {
+                    "link": "/food_1",
+                    "title": "food"
+                },
+                {
+                    "title": "Home",
+                    "link": "/9AF89712-5F83-471C-AD8F-9D3F9377586E"
+                }
+            ]
+        },
+        "textColor": "#333333",
+        "backgroundColor": "#ffffff"
     }
 }
