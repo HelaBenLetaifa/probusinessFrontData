@@ -92,6 +92,50 @@
                 }
             ]
         },
+{
+    "category_id": "category003",
+    "category_name": "Pasta",
+    "category_description": "Delicious pasta dishes made with authentic Italian recipes.",
+    "category_small_media": {
+        "url": "https://i.imgur.com/4jt0SyQ.jpg",
+        "type": "image"
+    },
+    "collection": [
+        {
+            "product_id": "PROD3001",
+            "product_name": "Spaghetti Carbonara",
+            "product_description": "Classic spaghetti with a creamy carbonara sauce.",
+            "product_small_media": {
+                "url": "https://i.imgur.com/BlNeXnd.jpg",
+                "type": "image"
+            },
+            "product_price": 10.99,
+            "currency": "USD"
+        },
+        {
+            "product_id": "PROD3002",
+            "product_name": "Fettuccine Alfredo",
+            "product_description": "Rich and creamy Alfredo sauce with fettuccine pasta.",
+            "product_small_media": {
+                "url": "https://i.imgur.com/f9xPCwF.jpg",
+                "type": "image"
+            },
+            "product_price": 12.49,
+            "currency": "USD"
+        },
+        {
+            "product_id": "PROD3003",
+            "product_name": "Penne Arrabbiata",
+            "product_description": "Spicy tomato sauce over penne pasta.",
+            "product_small_media": {
+                "url": "https://i.imgur.com/Ts3qLkL.jpg",
+                "type": "image"
+            },
+            "product_price": 9.99,
+            "currency": "USD"
+        }
+    ]
+},
         {
             "category_id": "category004",
             "category_name": "Drinks",
