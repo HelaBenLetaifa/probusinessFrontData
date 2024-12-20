@@ -97,41 +97,41 @@
     "category_name": "Pasta",
     "category_description": "Delicious pasta dishes made with authentic Italian recipes.",
     "category_small_media": {
-        "url": "https://i.imgur.com/4jt0SyQ.jpg",
+        "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
         "type": "image"
     },
     "collection": [
         {
             "product_id": "PROD3001",
-            "product_name": "Spaghetti Carbonara",
-            "product_description": "Classic spaghetti with a creamy carbonara sauce.",
+            "product_name": "Seafood Spaghetti",
+            "product_description": "Spaghetti with a mix of fresh seafood in a flavorful sauce.",
             "product_small_media": {
-                "url": "https://i.imgur.com/BlNeXnd.jpg",
+                "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                 "type": "image"
             },
-            "product_price": 10.99,
+            "product_price": 14.99,
             "currency": "USD"
         },
         {
             "product_id": "PROD3002",
-            "product_name": "Fettuccine Alfredo",
-            "product_description": "Rich and creamy Alfredo sauce with fettuccine pasta.",
+            "product_name": "Lasagna",
+            "product_description": "Classic Italian lasagna layered with rich meat sauce and creamy béchamel.",
             "product_small_media": {
-                "url": "https://i.imgur.com/f9xPCwF.jpg",
+                "url": "https://img.freepik.com/photos-gratuite/lasagne-traditionnelle-riche-sauce-bolognaise_60438-3536.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                 "type": "image"
             },
-            "product_price": 12.49,
+            "product_price": 13.49,
             "currency": "USD"
         },
         {
             "product_id": "PROD3003",
-            "product_name": "Penne Arrabbiata",
-            "product_description": "Spicy tomato sauce over penne pasta.",
+            "product_name": "Four Cheese Spaghetti",
+            "product_description": "Spaghetti with a creamy sauce made from four cheeses.",
             "product_small_media": {
-                "url": "https://i.imgur.com/Ts3qLkL.jpg",
+                "url": "https://img.freepik.com/photos-gratuite/pates-dans-sauce-cremeuse-au-brocoli-parmesan-rape_140725-6762.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                 "type": "image"
             },
-            "product_price": 9.99,
+            "product_price": 12.99,
             "currency": "USD"
         }
     ]
