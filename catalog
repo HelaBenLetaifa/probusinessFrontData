@@ -5,12 +5,12 @@
     },
     "catalog": [
         {
-            "category_id": "category001",
-            "category_name": "Electronics",
-            "category_description": "Latest electronic gadgets and devices",
+            "category_id": "",
+            "category_name": "",
+            "category_description": "",
             "category_small_media": {
-                        "url": "https://github.com/user-attachments/assets/b0d39366-cd0a-4a4d-b3a4-b461d176b42f",
-                        "type": "image"
+                        "url": "",
+                        "type": ""
                     },
             "collection": [
                 {
@@ -49,11 +49,11 @@
             ]
         },
         {
-            "category_id": "category002",
-            "category_name": "Home Appliances",
-            "category_description": "Essential appliances for modern living",
+            "category_id": "",
+            "category_name": "",
+            "category_description": "",
             "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
+                "url": "",
                 "type": "image"
             },
             "collection": [
@@ -92,14 +92,14 @@
                 }
             ]
         },
-        {
-            "category_id": "category003",
-            "category_name": "Fashion",
-            "category_description": "Latest trends in clothing and accessories",
+       {
+            "category_id": "",
+            "category_name": "",
+            "category_description": "",
             "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
-                "type": "image"
-            },
+                        "url": "",
+                        "type": ""
+                    },
             "collection": [
                 {
                     "product_id": "PROD3001",
@@ -137,13 +137,13 @@
             ]
         },
         {
-            "category_id": "category004",
-            "category_name": "Books",
-            "category_description": "A collection of must-read books across genres",
+            "category_id": "",
+            "category_name": "",
+            "category_description": "",
             "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
-                "type": "image"
-            },
+                        "url": "",
+                        "type": ""
+                    },
             "collection": [
                 {
                     "product_id": "PROD4001",
