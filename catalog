@@ -115,6 +115,44 @@
         }
       ]
     },
+    {
+      "collection": [
+        {
+          "product_id": "PROD4001",
+          "product_name": "Boga",
+          "product_description": "Classic carbonated soft drink.",
+          "product_small_media": {
+            "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
+            "type": "image"
+          },
+          "product_price": 1.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD4002",
+          "product_name": "Lemonade",
+          "product_description": "Refreshing homemade lemonade.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGVtb25hZGV8ZW58MHx8MHx8fDA%3D",
+            "type": "image"
+          },
+          "product_price": 2.49,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD4003",
+          "product_name": "Iced Tea",
+          "product_description": "Cool and refreshing iced tea.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SWNlZCUyMFRlYXxlbnwwfHwwfHx8MA%3D%3D",
+            "type": "image"
+          },
+          "product_price": 2.29,
+          "currency": "USD"
+        }
+      ]
+    }
+  ],
   "navigation": {
     "content": {
       "layout": "centered",
