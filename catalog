@@ -3,202 +3,191 @@
   "config": {
     "type": "catalog_1"
   },
- "catalog": [
-        {
-            "category_id": "category001",
-            "category_name": "Electronics",
-            "category_description": "Latest electronic gadgets and devices",
-            "category_small_media": {
-                        "url": "https://github.com/user-attachments/assets/b0d39366-cd0a-4a4d-b3a4-b461d176b42f",
-                        "type": "image"
-                    },
-            "collection": [
-                {
-                    "product_id": "PROD1001",
-                    "product_name": "Smartphone Alpha",
-                    "product_description": "A high-end smartphone with cutting-edge features.",
-                    "product_small_media": {
-                        "url": "",
-                        "type": "image"
-                    },
-                    "product_price": 799.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD1002",
-                    "product_name": "Wireless Headphones",
-                    "product_description": "Noise-cancelling over-ear headphones.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1637780852590-8ab27248ec41?q=80&w=2818&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "type": "image"
-                    },
-                    "product_price": 199.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD1003",
-                    "product_name": "4K Action Camera",
-                    "product_description": "Durable action camera for capturing adventures in ultra-high definition.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1460134846237-51c777df6111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8NEslMjBBY3Rpb24lMjBDYW1lcmF8ZW58MHx8MHx8fDA%3D",
-                        "type": "image"
-                    },
-                    "product_price": 249.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category002",
-            "category_name": "Home Appliances",
-            "category_description": "Essential appliances for modern living",
-            "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD2001",
-                    "product_name": "Smart Refrigerator",
-                    "product_description": "Energy-efficient refrigerator with smart features.",
-                    "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
-                        "type": "image"
-                    },
-                    "product_price": 1199.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD2002",
-                    "product_name": "Robot Vacuum Cleaner",
-                    "product_description": "Automated vacuum cleaner with advanced navigation.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1603618090561-412154b4bd1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Um9ib3QlMjBWYWN1dW0lMjBDbGVhbmVyfGVufDB8fDB8fHww",
-                        "type": "image"
-                    },
-                    "product_price": 299.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD2003",
-                    "product_name": "Air Purifier",
-                    "product_description": "Removes pollutants and allergens from the air.",
-                    "product_small_media": {
-                        "url": "https://media.istockphoto.com/id/1364110607/photo/young-woman-in-living-room-setting-up-home-air-purifier.webp?a=1&b=1&s=612x612&w=0&k=20&c=mTLhmlidm-EoD_xO8gixonGrgqAbA_2FcyXO_1wpVMc=",
-                        "type": "image"
-                    },
-                    "product_price": 149.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category003",
-            "category_name": "Fashion",
-            "category_description": "Latest trends in clothing and accessories",
-            "category_small_media": {
-                "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD3001",
-                    "product_name": "Classic Leather Jacket",
-                    "product_description": "Stylish leather jacket made from premium materials.",
-                    "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
-                        "type": "image"
-                    },
-                    "product_price": 299.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD3002",
-                    "product_name": "Designer Handbag",
-                    "product_description": "Elegant handbag for all occasions.",
-                    "product_small_media": {
-                        "url": "https://plus.unsplash.com/premium_photo-1664392147011-2a720f214e01?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVzaWduZXIlMjBIYW5kYmFnfGVufDB8fDB8fHww",
-                        "type": "image"
-                    },
-                    "product_price": 499.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD3003",
-                    "product_name": "Sport Sneakers",
-                    "product_description": "Comfortable sneakers suitable for running and casual wear.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1709258228137-19a8c193be39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnQlMjBTbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
-                        "type": "image"
-                    },
-                    "product_price": 129.99,
-                    "currency": "USD"
-                }
-            ]
-        },
-        {
-            "category_id": "category004",
-            "category_name": "Books",
-            "category_description": "A collection of must-read books across genres",
-            "category_small_media": {
-                "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
-                "type": "image"
-            },
-            "collection": [
-                {
-                    "product_id": "PROD4001",
-                    "product_name": "Mystery Novel",
-                    "product_description": "A thrilling mystery that keeps you on the edge of your seat.",
-                    "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
-                        "type": "image"
-                    },
-                    "product_price": 15.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD4002",
-                    "product_name": "Science Fiction Epic",
-                    "product_description": "An epic journey through space and time.",
-                    "product_small_media": {
-                        "url": "https://github.com/user-attachments/assets/9e8c984d-4006-495a-bff1-845a1af0a9f3",
-                        "type": "image"
-                    },
-                    "product_price": 18.99,
-                    "currency": "USD"
-                },
-                {
-                    "product_id": "PROD4003",
-                    "product_name": "Cookbook",
-                    "product_description": "Delicious recipes from around the world.",
-                    "product_small_media": {
-                        "url": "https://github.com/user-attachments/assets/ee7f1c35-fda5-49e6-95fd-7012d4078583",
-                        "type": "image"
-                    },
-                    "product_price": 25.99,
-                    "currency": "USD"
-                }
-            ]
-        }
-    ],
-"navigation":{
-   "content":{
-      "layout":"centered",
-      "logo":{
-         "icon":"heart"
+  "catalog": [
+    {
+      "category_id": "category001",
+      "category_name": "Electronics",
+      "category_description": "Latest electronic gadgets and devices",
+      "category_small_media": {
+        "url": "https://github.com/user-attachments/assets/b0d39366-cd0a-4a4d-b3a4-b461d176b42f",
+        "type": "image"
       },
-      "items":[
- {
-            "link":"/product_1",
-            "title":"product"
-         },
-         {
-            "title":"Home",
-            "link":"/9AF89712-5F83-471C-AD8F-9D3F9377586E"
-         }
+      "collection": [
+        {
+          "product_id": "PROD1001",
+          "product_name": "Smartphone Alpha",
+          "product_description": "A flagship smartphone. The Smartphone Alpha is a state-of-the-art device that features a sleek design, powerful processor, stunning display, and exceptional camera capabilities. Ideal for tech enthusiasts looking for the best. It offers features like fast charging, long-lasting battery, and support for the latest 5G networks. With a smooth user interface and plenty of storage, it's designed for those who demand more from their smartphones.",
+          "product_small_media": {
+            "url": "",
+            "type": "image"
+          },
+          "product_price": 799.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD1002",
+          "product_name": "Wireless Headphones",
+          "product_description": "Noise-cancelling headphones. These wireless headphones provide unparalleled sound quality and active noise-cancelling technology. Perfect for music lovers and frequent travelers. With comfortable ear cushions and a long battery life, they provide a premium listening experience. Whether you're at home or on the go, these headphones block out background noise, allowing you to fully immerse yourself in music, podcasts, or calls.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1637780852590-8ab27248ec41?q=80&w=2818&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "type": "image"
+          },
+          "product_price": 199.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD1003",
+          "product_name": "4K Action Camera",
+          "product_description": "Durable action camera. This device is built to withstand extreme conditions, providing ultra-high definition recording and excellent performance for adventure seekers. Perfect for outdoor enthusiasts, this camera is water-resistant, shockproof, and capable of capturing high-quality footage in any environment. Whether you're diving in the ocean or hiking through rugged terrain, this camera ensures that you capture every moment in stunning 4K resolution.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1460134846237-51c777df6111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8NEslMjBBY3Rpb24lMjBDYW1lcmF8ZW58MHx8MHx8fDA%3D",
+            "type": "image"
+          },
+          "product_price": 249.99,
+          "currency": "USD"
+        }
       ]
-   },
-   "textColor":"#333333",
-   "backgroundColor":"#ffffff"
-}
+    },
+    {
+      "category_id": "category002",
+      "category_name": "Home Appliances",
+      "category_description": "Essential appliances for modern living",
+      "category_small_media": {
+        "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
+        "type": "image"
+      },
+      "collection": [
+        {
+          "product_id": "PROD2001",
+          "product_name": "Smart Refrigerator",
+          "product_description": "Energy-efficient refrigerator. Features include smart temperature control, spacious compartments, and advanced food preservation technology. The Smart Refrigerator can be controlled remotely using your smartphone, allowing you to adjust the temperature and monitor your food storage. With its modern design and eco-friendly features, this refrigerator is perfect for the modern kitchen. It's designed to save energy while keeping your food fresh for longer.",
+          "product_small_media": {
+            "url": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBSZWZyaWdlcmF0b3J8ZW58MHx8MHx8fDA%3D",
+            "type": "image"
+          },
+          "product_price": 1199.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD2002",
+          "product_name": "Robot Vacuum Cleaner",
+          "product_description": "Automated vacuum cleaner. Equipped with advanced navigation, powerful suction, and smart home integration for effortless cleaning. This robot vacuum learns your home’s layout to optimize its cleaning path, ensuring that every corner is cleaned. It has sensors that prevent it from falling down stairs, and it can be controlled remotely via a smartphone app. Perfect for busy households, it saves time and keeps your floors spotless.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1603618090561-412154b4bd1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Um9ib3QlMjBWYWN1dW0lMjBDbGVhbmVyfGVufDB8fDB8fHww",
+            "type": "image"
+          },
+          "product_price": 299.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD2003",
+          "product_name": "Air Purifier",
+          "product_description": "Removes pollutants and allergens from the air. This air purifier uses advanced filtration technology to trap dust, pollen, and harmful particles, improving air quality and creating a healthier living environment. Ideal for people with allergies, asthma, or respiratory issues, it operates quietly and efficiently. With its sleek design and easy-to-use features, this purifier is a must-have for every modern home.",
+          "product_small_media": {
+            "url": "https://media.istockphoto.com/id/1364110607/photo/young-woman-in-living-room-setting-up-home-air-purifier.webp?a=1&b=1&s=612x612&w=0&k=20&c=mTLhmlidm-EoD_xO8gixonGrgqAbA_2FcyXO_1wpVMc=",
+            "type": "image"
+          },
+          "product_price": 149.99,
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "category_id": "category003",
+      "category_name": "Fashion",
+      "category_description": "Latest trends in clothing and accessories",
+      "category_small_media": {
+        "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
+        "type": "image"
+      },
+      "collection": [
+        {
+          "product_id": "PROD3001",
+          "product_name": "Classic Leather Jacket",
+          "product_description": "Stylish leather jacket made from premium materials. The Classic Leather Jacket is the perfect blend of timeless style and modern design. Crafted from high-quality leather, it’s built to last and adds a bold statement to your wardrobe. Whether you’re dressing up for a night out or pairing it with jeans for a casual look, this jacket provides the perfect mix of sophistication and comfort.",
+          "product_small_media": {
+            "url": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2xhc3NpYyUyMExlYXRoZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDA%3D",
+            "type": "image"
+          },
+          "product_price": 299.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD3002",
+          "product_name": "Designer Handbag",
+          "product_description": "Elegant handbag for all occasions. This Designer Handbag features exquisite craftsmanship, premium materials, and a spacious interior to carry all your essentials in style. It’s versatile enough to be paired with both casual and formal outfits, making it a staple accessory for the modern woman. The handbag includes thoughtful organizational compartments to keep your items neat and accessible.",
+          "product_small_media": {
+            "url": "https://plus.unsplash.com/premium_photo-1664392147011-2a720f214e01?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVzaWduZXIlMjBIYW5kYmFnfGVufDB8fDB8fHww",
+            "type": "image"
+          },
+          "product_price": 499.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD3003",
+          "product_name": "Sport Sneakers",
+          "product_description": "Comfortable sneakers suitable for running and casual wear. These Sport Sneakers combine performance, comfort, and style. With a breathable mesh upper, cushioned sole, and sleek design, they’re perfect for both running and casual outings. Whether you're hitting the gym or going for a walk, these sneakers provide all-day support and comfort, making them an essential addition to your athletic wardrobe.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1709258228137-19a8c193be39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnQlMjBTbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+            "type": "image"
+          },
+          "product_price": 129.99,
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "category_id": "category004",
+      "category_name": "Books",
+      "category_description": "A collection of must-read books across genres",
+      "category_small_media": {
+        "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
+        "type": "image"
+      },
+      "collection": [
+        {
+          "product_id": "PROD4001",
+          "product_name": "Mystery Novel",
+          "product_description": "A thrilling mystery that keeps you on the edge of your seat. This gripping mystery novel is full of twists and turns that will keep you guessing until the very end. With complex characters and a well-developed plot, it's perfect for fans of suspenseful literature. Dive into a world of intrigue, secrets, and shocking revelations.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
+            "type": "image"
+          },
+          "product_price": 19.99,
+          "currency": "USD"
+        },
+        {
+          "product_id": "PROD4002",
+          "product_name": "Self-help Book",
+          "product_description": "A motivational book for personal growth. This book offers practical advice and inspirational stories to help you unlock your full potential. Whether you're seeking career advice or striving to improve your personal life, it provides valuable insights and strategies for success. Perfect for anyone looking to take their life to the next level.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1693204416167-87a10727663a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2VsZi1oZWxwfGVufDB8fDB8fHww",
+            "type": "image"
+          },
+          "product_price": 15.99,
+          "currency": "USD"
+        }
+      ]
+    }
+  ],
+  "navigation": {
+    "content": {
+      "layout": "centered",
+      "logo": {
+        "icon": "heart"
+      },
+      "items": [
+        {
+          "link": "/product_1",
+          "title": "product"
+        },
+        {
+          "title": "Home",
+          "link": "/9AF89712-5F83-471C-AD8F-9D3F9377586E"
+        }
+      ]
+    },
+    "textColor": "#333333",
+    "backgroundColor": "#ffffff"
+  }
 }
