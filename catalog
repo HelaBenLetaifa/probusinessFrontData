@@ -161,7 +161,18 @@
           "product_name": "Self-help Book",
           "product_description": "A motivational book for personal growth. This book offers practical advice and inspirational stories to help you unlock your full potential. Whether you're seeking career advice or striving to improve your personal life, it provides valuable insights and strategies for success. Perfect for anyone looking to take their life to the next level.",
           "product_small_media": {
-            "url": "https://images.unsplash.com/photo-1693204416167-87a10727663a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2VsZi1oZWxwfGVufDB8fDB8fHww",
+            "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
+            "type": "image"
+          },
+          "product_price": 15.99,
+          "currency": "USD"
+        },
+ {
+          "product_id": "PROD4002",
+          "product_name": "Self-help Book",
+          "product_description": "A motivational book for personal growth. This book offers practical advice and inspirational stories to help you unlock your full potential. Whether you're seeking career advice or striving to improve your personal life, it provides valuable insights and strategies for success. Perfect for anyone looking to take their life to the next level.",
+          "product_small_media": {
+            "url": "https://images.unsplash.com/photo-1698954634383-eba274a1b1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TXlzdGVyeSUyME5vdmVsfGVufDB8fDB8fHww",
             "type": "image"
           },
           "product_price": 15.99,
