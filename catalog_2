@@ -46,7 +46,13 @@
                     "product_price": 6.49,
                     "currency": "USD"
                 }
-            ]
+            ],
+            "products_pagination": {
+                "page_count": 1,
+                "total": 3,
+                "page": 1,
+                "per": 3
+            }
         },
         {
             "category_id": "category002",
@@ -90,115 +96,133 @@
                     "product_price": 13.49,
                     "currency": "USD"
                 }
-            ]
-        },
-{
-    "category_id": "category003",
-    "category_name": "Pasta",
-    "category_description": "Delicious pasta dishes made with authentic Italian recipes.",
-    "category_small_media": {
-        "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
-        "type": "image"
-    },
-    "collection": [
-        {
-            "product_id": "PROD3001",
-            "product_name": "Seafood Spaghetti",
-            "product_description": "Spaghetti with a mix of fresh seafood in a flavorful sauce.",
-            "product_small_media": {
-                "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
-                "type": "image"
-            },
-            "product_price": 14.99,
-            "currency": "USD"
+            ],
+            "products_pagination": {
+                "page_count": 1,
+                "total": 3,
+                "page": 1,
+                "per": 3
+            }
         },
         {
-            "product_id": "PROD3002",
-            "product_name": "Lasagna",
-            "product_description": "Classic Italian lasagna layered with rich meat sauce and creamy béchamel.",
-            "product_small_media": {
-                "url": "https://img.freepik.com/photos-gratuite/lasagne-traditionnelle-riche-sauce-bolognaise_60438-3536.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
-                "type": "image"
-            },
-            "product_price": 13.49,
-            "currency": "USD"
-        },
-        {
-            "product_id": "PROD3003",
-            "product_name": "Four Cheese Spaghetti",
-            "product_description": "Spaghetti with a creamy sauce made from four cheeses.",
-            "product_small_media": {
-                "url": "https://img.freepik.com/photos-gratuite/pates-dans-sauce-cremeuse-au-brocoli-parmesan-rape_140725-6762.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
-                "type": "image"
-            },
-            "product_price": 12.99,
-            "currency": "USD"
-        }
-    ]
-},
-        {
-            "category_id": "category004",
-            "category_name": "Drinks",
-            "category_description": "Refreshing beverages to go with your meal.",
+            "category_id": "category003",
+            "category_name": "Pasta",
+            "category_description": "Delicious pasta dishes made with authentic Italian recipes.",
             "category_small_media": {
-                        "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
+                "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                 "type": "image"
             },
             "collection": [
                 {
-                    "product_id": "PROD4001",
-                    "product_name": "Boga",
-                    "product_description": "Classic carbonated soft drink.",
+                    "product_id": "PROD3001",
+                    "product_name": "Seafood Spaghetti",
+                    "product_description": "Spaghetti with a mix of fresh seafood in a flavorful sauce.",
                     "product_small_media": {
-                        "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
+                        "url": "https://img.freepik.com/photos-gratuite/spaghetti-aux-fruits-mer-sauce-tomate-decore-beaux-ingredients_1150-26415.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                         "type": "image"
                     },
-                    "product_price": 1.99,
+                    "product_price": 14.99,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD4002",
-                    "product_name": "Lemonade",
-                    "product_description": "Refreshing homemade lemonade.",
+                    "product_id": "PROD3002",
+                    "product_name": "Lasagna",
+                    "product_description": "Classic Italian lasagna layered with rich meat sauce and creamy béchamel.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGVtb25hZGV8ZW58MHx8MHx8fDA%3D",
+                        "url": "https://img.freepik.com/photos-gratuite/lasagne-traditionnelle-riche-sauce-bolognaise_60438-3536.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                         "type": "image"
                     },
-                    "product_price": 2.49,
+                    "product_price": 13.49,
                     "currency": "USD"
                 },
                 {
-                    "product_id": "PROD4003",
-                    "product_name": "Iced Tea",
-                    "product_description": "Cool and refreshing iced tea.",
+                    "product_id": "PROD3003",
+                    "product_name": "Four Cheese Spaghetti",
+                    "product_description": "Spaghetti with a creamy sauce made from four cheeses.",
                     "product_small_media": {
-                        "url": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SWNlZCUyMFRlYXxlbnwwfHwwfHx8MA%3D%3D",
+                        "url": "https://img.freepik.com/photos-gratuite/pates-dans-sauce-cremeuse-au-brocoli-parmesan-rape_140725-6762.jpg?uid=R83573374&ga=GA1.1.91393105.1718878407&semt=ais_hybrid",
                         "type": "image"
                     },
-                    "product_price": 2.29,
+                    "product_price": 12.99,
                     "currency": "USD"
                 }
-            ]
+            ],
+            "products_pagination": {
+                "page_count": 1,
+                "total": 3,
+                "page": 1,
+                "per": 3
+            }
+        },
+    {
+    "category_id": "category004",
+    "category_name": "Drinks",
+    "category_description": "Refreshing beverages to go with your meal.",
+    "category_small_media": {
+        "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
+        "type": "image"
+    },
+    "collection": [
+        {
+            "product_id": "PROD4001",
+            "product_name": "Boga",
+            "product_description": "Classic carbonated soft drink.",
+            "product_small_media": {
+                "url": "https://github.com/user-attachments/assets/c25cbf04-cc15-4d8f-9961-50169218350f",
+                "type": "image"
+            },
+            "product_price": 1.99,
+            "currency": "USD"
+        },
+        {
+            "product_id": "PROD4002",
+            "product_name": "Lemonade",
+            "product_description": "Refreshing homemade lemonade.",
+            "product_small_media": {
+                "url": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGVtb25hZGV8ZW58MHx8MHx8fDA%3D",
+                "type": "image"
+            },
+            "product_price": 2.49,
+            "currency": "USD"
+        },
+        {
+            "product_id": "PROD4003",
+            "product_name": "Iced Tea",
+            "product_description": "Cool and refreshing iced tea.",
+            "product_small_media": {
+                "url": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SWNlZCUyMFRlYXxlbnwwfHwwfHx8MA%3D%3D",
+                "type": "image"
+            },
+            "product_price": 2.29,
+            "currency": "USD"
         }
     ],
-    "navigation": {
-        "content": {
-            "layout": "centered",
-            "logo": {
-                "icon": "heart"
-            },
-            "items": [
-                {
-                    "link": "/product_1",
-                    "title": "product"
-                },
-                {
-                    "title": "Home",
-                    "link": "/home"
-                }
-            ]
-        },
-        "textColor": "#333333",
-        "backgroundColor": "#ffffff"
+    "products_pagination": {
+        "page_count": 1,
+        "total": 3,
+        "page": 1,
+        "per": 3
     }
+    }
+],
+"navigation": {
+    "content": {
+        "layout": "centered",
+        "logo": {
+            "icon": "heart"
+        },
+        "items": [
+            {
+                "link": "/product_1",
+                "title": "product"
+            },
+            {
+                "title": "Home",
+                "link": "/home"
+            }
+        ]
+    },
+    "textColor": "#333333",
+    "backgroundColor": "#ffffff"
+}
 }
