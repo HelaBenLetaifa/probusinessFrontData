@@ -1,0 +1,73 @@
+{
+  "company": {
+    "address": "5171 W Campbell Ave undefined Kent, Utah 53127 United States",
+    "phone": "(+91) - 540-025-124553",
+    "email": "sale@Nest.com",
+    "hours": "10:00 - 18:00, Mon - Sat"
+  },
+  "app": {
+    "install": {
+      "description": "From App Store or Google Play",
+      "links": {
+        "googlePlay": "#",
+        "appStore": "#"
+      },
+      "images": {
+        "googlePlay": "https://github.com/user-attachments/assets/56856c05-549e-42f6-a065-6707f5f4aec0",
+        "appStore": "https://github.com/user-attachments/assets/5a6709f9-a160-4501-bba1-0fb9c2cd5c57"
+      }
+    }
+  },
+  "payment": {
+    "description": "Secured Payment Gateways",
+    "image": "https://github.com/user-attachments/assets/48bc005c-a90e-4d0b-970d-ae4f4e0881f5"
+  },
+  "links": {
+    "company": [
+      { "name": "About Us",
+      "url": "/about"
+      },
+      { "name": "Delivery Information",
+      "url": "/delivery"
+      },
+      { "name": "Privacy Policy", 
+      "url": "/privacy"
+      },
+      { "name": "Terms & Conditions",
+      "url": "/terms" 
+      },
+      { "name": "Contact Us", 
+      "url": "/contact" 
+      },
+      { "name": "Support Center", 
+      "url": "/support"
+      },
+      { "name": "Careers", 
+      "url": "/careers"
+      }
+    ],
+    "account": [
+      { "name": "Sign In", 
+      "url": "/signin"
+      },
+      { "name": "View Cart",
+      "url": "/cart"
+      },
+      { "name": "My Wishlist",
+      "url": "/wishlist"
+      },
+      { "name": "Track My Order", 
+      "url": "/orders"
+      },
+      { "name": "Help Ticket",
+      "url": "/help"
+      },
+      { "name": "Shipping Details",
+      "url": "/shipping" 
+      },
+      { "name": "Compare products",
+      "url": "/compare"
+      }
+    ]
+  }
+}
